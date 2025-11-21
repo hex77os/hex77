@@ -1,15 +1,8 @@
-# Hex77_OS
+# { Hex77_OS ! } 
+
+<img src="https://github.com/hex77os/hex77/blob/main/assets/logo_hex77.png" class="flex:center;"  alt="hex77_os"/>
+> **A new path for Arch Linux**  
 
 
-**An Arch Linux–based distribution — but different.**
-
-> Project is under heavy development  
-> First public ISO coming soon !
-
-Nothing to see yet.
-
-Just wait.
-
-https://github.com/Hex77OS
-
-Hex77_OS
+## Coming Soon – 2026
+- The ISO is being forged in the neon shadows.
