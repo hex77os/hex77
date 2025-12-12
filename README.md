@@ -4,5 +4,8 @@
 > **A new path for Arch Linux**  
 
 
+## Preview ISO 
+
 ## Coming Soon – 2026
-- The ISO is being forged in the neon shadows.
+- The ISO is being forged in the neon shadows
+  
